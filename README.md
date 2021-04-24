@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/laSinteZ/fastify/raw/HEAD/fastify-landscape-themed.svg" width="650" height="auto"/>
+<img src="https://github.com/laSinteZ/fastify/raw/HEAD/fastify-landscape-outlined.svg" width="650" height="auto"/>
 </div>
 
 <div align="center">
